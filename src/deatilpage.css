@@ -1,0 +1,172 @@
+.title-content {
+  display: flex;
+  border: 2px solid black;
+  align-items: center;
+  justify-content: left;
+  padding: 20px;
+  gap: 20px;
+  height: 226px;
+  background-color: rgba(255, 255, 255, 1);
+}
+
+.Wrapper{
+    background-color: #f0f0f0;
+   
+   
+}
+
+.logo img {
+  width: 152px;
+  height: 152px;
+  border-radius: 5px 0px 0px 0px;
+}
+
+.description {
+  width: 710px;
+  height: 155px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.description p {
+  margin: 0;
+}
+
+.description1 {
+  display: flex;
+  height: 110px;
+  gap: 100px;
+}
+
+.detail2 {
+  display: flex;
+  flex-direction: column;
+}
+
+.title {
+  font-family: Inter;
+  font-size: 32px;
+  font-weight: 600;
+  line-height: 38.4px;
+  text-align: left;
+  color: rgba(55, 65, 81, 1);
+}
+
+.detail1 p:nth-of-type(1) {
+  font-family: Inter;
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 21px;
+  text-align: left;
+  color: rgba(100, 116, 139, 1);
+}
+
+.detail1 p:nth-of-type(2) {
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: left;
+  width: 372px;
+  height: 72px;
+}
+
+.detail2 p:nth-of-type(2) {
+  margin-bottom: 10px;
+}
+
+.detail1 {
+  border-right: 1px solid var(--Divider, rgba(236, 236, 236, 1));
+  width: 500px;
+}
+
+.company-detailsinfo p {
+  margin: 0;
+}
+
+.company-details {
+  width: 438px;
+  height: 687px;
+  border: 1px solid black;
+  padding-left: 25px;
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+  margin-top: 20px;
+  background-color: rgba(255, 255, 255, 1);
+  border-radius: 5px;
+}
+
+.company-title{
+   
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 27px;
+    text-align: left;
+    
+}
+
+.info{
+   
+font-family: Inter;
+font-size: 14px;
+font-weight: 600;
+line-height: 21px;
+text-align: left;
+color:  rgba(100, 116, 139, 1);
+
+}
+
+.company-detailsinfo a {
+    text-decoration: none; 
+    color: rgba(108, 43, 217, 1);
+
+}
+
+.company-screenshot{
+    width: 989px;
+    height: 685px;
+    background-color: rgba(255, 255, 255, 1);
+    margin-top: 20px;
+    border: 1px solid black;
+    border-radius: 5px;
+
+
+}
+
+.companydiv{
+    display: flex;
+    gap: 15px;
+}
+
+.screenshot{
+    display: flex;
+    flex-direction: column;
+}
+
+.screenshot p{
+margin-left: 25px;
+font-family: Inter;
+font-size: 18px;
+font-weight: 600;
+line-height: 27px;
+text-align: left;
+align-items: center;
+display: flex;
+gap: 10px;
+
+}
+
+
+
+.sreenshotimage{
+    width: 900px;
+    height: 610px;
+    object-fit: contain;
+    margin-left: 20px;
+}
+
+
+  
