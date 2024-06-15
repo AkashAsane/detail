@@ -53,7 +53,7 @@ export default function Detailpage() {
             </div>
             <div className="company-detailsinfo">
                 <p className="info"><CiCircleInfo/>Description</p>
-                <span>Watch Netflix movies & TV shows online or stream right to your smart TV, game console, PC, Mac, mobile, tablet and more.</span>
+                <p className="descriptioninfo">Watch Netflix movies & TV shows online or stream right to your smart TV, game console, PC, Mac, mobile, tablet and more.</p>
             </div>
             <div className="company-detailsinfo">
                 <p className="info"><HiOutlineLocationMarker />Email</p>
